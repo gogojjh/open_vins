@@ -23,6 +23,6 @@ cam1:
   camera_model: pinhole
   distortion_coeffs: [0.0, 0.0, 0.0, 0.0]
   distortion_model: pinhole
-  intrinsics: [542.9769, 542.9769, 481.299774, 271.8504638] #fu, fv, cu, cv
+  intrinsics: [542.7053, 542.70538, 481.300415, 271.850250] #fu, fv, cu, cv
   resolution: [540, 960]
   rostopic: /zed2/zed_node/right/image_rect_color
